@@ -17,16 +17,10 @@ double IncomeMultiplier = 1.0;
 // Player's age in years
 int Age = 1;
 
-// Player's health (0-100)
+// Player's Statistics
 int Health = 100;
-
-// Player's hunger level (0-100)
 int Hunger = 100;
-
-// Player's energy level (0-100)
 int Energy = 100;
-
-// Player's body durability/stamina (0-100)
 int Durability = 100;
 
 // Menu selection - choice
@@ -191,3 +185,4 @@ int main(){
         }
     }
 }
+
